@@ -1,0 +1,28 @@
+.navbar{
+    background-color: #FCF8E8 !important;
+    
+}
+body{
+    background-color: #CEE5D0;
+    font-family: 'Amiri Quran', serif;
+}
+.text1{
+    font-size: 250%;
+    text-align: center;
+    background-color: #F9F9F9;
+}
+.post{
+    margin-top: 5%;
+    height: 60%;
+    width: 60%;
+   
+}
+.text2{
+    font-size: 150%;
+    text-align: center;
+    color: #1A4D2E;
+    background-color: #F5EDDC;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 1%;
+}

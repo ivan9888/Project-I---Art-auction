@@ -1,0 +1,21 @@
+.navbar{
+    background-color: #FCF8E8 !important;
+    
+}
+body{
+    background-color: #CEE5D0;
+    font-family: 'Amiri Quran', serif;
+   
+}
+
+.row.text1{
+    font-size: 200%;
+}
+
+.post{
+    
+    height: 80%;
+    width: 80%;
+    padding: 2%;
+   
+}
